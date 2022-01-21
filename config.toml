@@ -4,7 +4,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "Charlie Barber"
 languageCode = "en-gb"
-baseURL = "charlieb.dev"
+baseURL = "https://charliebarber.github.io"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
